@@ -1,0 +1,39 @@
+Home | Latest Filings | Previous Page
+Search the Next-Generation EDGAR System
+Filing Detail
+SEC Home » Search the Next-Generation EDGAR System » Company Search » Current Page
+Form DEFM14A - Definitive proxy statement relating to merger or acquisition:
+SEC Accession No. 0001628280-19-015006
+Filing Date
+2019-12-12
+Accepted
+2019-12-12 16:01:27
+Documents
+5
+Effectiveness Date
+2019-12-12
+
+Document Format Files
+
+Seq	Description	Document	Type	Size
+1	DEFM14A	fitbitdefinitiveproxy.htm	DEFM14A	1918570
+2		annexb1a.jpg	GRAPHIC	11525
+3		proxycard1b.jpg	GRAPHIC	136149
+4		proxycard2b.jpg	GRAPHIC	127483
+5		proxyjamessignature.jpg	GRAPHIC	63111
+ 	Complete submission text file	0001628280-19-015006.txt	 	2378897
+Mailing Address
+199 FREMONT STREET
+14TH FLOOR
+SAN FRANCISCO CA 94105
+Business Address
+199 FREMONT STREET
+14TH FLOOR
+SAN FRANCISCO CA 94105
+415-513-1000
+FITBIT, INC. (Filer) CIK: 0001447599 (see all company filings)
+
+IRS No.: 208920744 | Fiscal Year End: 1231
+Type: DEFM14A | Act: 34 | File No.: 001-37444 | Film No.: 191281887
+SIC: 3571 Electronic Computers
+Office of Technology
