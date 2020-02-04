@@ -13,7 +13,8 @@ pipeline {
             post {
                 success {
                     archiveArtifacts 'dist/dl_ma'
-                            }
+                        }
+            }
         }
     }
 }
