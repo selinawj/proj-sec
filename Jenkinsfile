@@ -1,15 +1,19 @@
 pipeline {
     agent none
     stages {
-        stage('Build') {
+        stage('Deliver') {
             agent {
                 docker {
-                    image 'python:2-alpine'
+                    image 'cdrx/pyinstaller-linux:python3'
                 }
             }
             steps {
-                sh 'python -m py_compile sources/add2vals.py sources/calc.py'
+                sh 'pyinstaller --onefile scrape_rpa.py'
             }
+            post {
+                success {
+                    archiveArtifacts 'dist/dl_ma'
+                            }
         }
     }
 }
